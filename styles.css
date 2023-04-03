@@ -8,6 +8,7 @@ body {
    padding: 10px;
    margin:10px
    backgroud rgb(219, 12, 12);
+   border-radius:10px;
 }
 
 .assignment img{
@@ -21,7 +22,7 @@ body {
 }
 
 h1 {
-    color: #5D7F71;
+    color: #050505;
     text-align:center;
 }
 
